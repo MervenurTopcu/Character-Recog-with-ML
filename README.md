@@ -26,4 +26,4 @@ The EMNIST Balanced dataset is meant to address the balance issues in the ByClas
 
 ![resim](https://user-images.githubusercontent.com/37351206/156732147-e632b8aa-d679-4dea-b700-33560f8908b6.png)
 
-- 📫 Project is available on Kaggle [https://www.kaggle.com/mervenurtopcu/emnist-dataset](https://www.kaggle.com/mervenurtopcu/emnist-dataset)
+- 📫 Project is available at [https://www.kaggle.com/mervenurtopcu/emnist-dataset](https://www.kaggle.com/mervenurtopcu/emnist-dataset)
